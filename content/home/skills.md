@@ -38,6 +38,11 @@ subtitle = ""
   name = "iOS App Development"
   description = "80%"
 
+[[feature]]
+  icon = "server"
+  icon_pack = "fab"
+  name = "REST Web Services"
+  description = "90%"
 # Uncomment to use emoji icons.
 # [[feature]]
 #  icon = ":smile:"
