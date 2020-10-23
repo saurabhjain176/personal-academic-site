@@ -22,19 +22,19 @@ subtitle = ""
 
 [[feature]]
   icon = "java"
-  icon_pack = "fas"
+  icon_pack = "fab"
   name = "Java"
   description = "80%"  
 
 [[feature]]
   icon = "js-square"
-  icon_pack = "fas"
+  icon_pack = "fab"
   name = "JavaScript"
   description = "60%"
 
 [[feature]]
   icon = "app-store-ios"
-  icon_pack = "fas"
+  icon_pack = "fab"
   name = "iOS App Development"
   description = "80%"
 
