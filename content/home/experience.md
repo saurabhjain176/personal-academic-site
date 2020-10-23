@@ -47,7 +47,7 @@ date_format = "Jan 2006"
   company_url = "https://www.nuance.com/index.html"
   location = "Pune, India"
   date_start = "2018-02-01"
-  date_end = "2019-06-31"
+  date_end = "2019-06-30"
   description = """"""
 
 [[experience]]
