@@ -3,7 +3,7 @@
 
 title: "Bernoulli Distribution"
 subtitle: ""
-summary: ""
+summary: "Bernoulli Distribution is the discrete probability distribution of a random variable that has a probability p of having a value 1 and probability 1- p as having a value 0."
 authors: []
 tags: []
 categories: []
