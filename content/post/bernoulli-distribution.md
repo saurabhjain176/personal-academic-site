@@ -49,6 +49,8 @@ $$p(c = 1 | x) = x^1(1 - x)^{1-1} = x $$
 
 It shows that **Bernoulli Distribution** holds true for both the values.
 
+**Usage:** Imagine that you are building a very basic classification model to detect _hate speech_ from a given text. The dependent variable of the classification is $ y \in 0, 1 $ for _NO_HATE_ and _HATE_ respectively. Now we can model the dependent variable $y$ using the **Bernoulli Distribution** as $ p(y|x) = x^y(1 - x)^{1-y}$. Note that in practical usage, $x$ can be more sophisticated activation function like _sigmoid_ or _ReLU_.
+
 
 **Reference:**
 
